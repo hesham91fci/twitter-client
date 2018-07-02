@@ -7,15 +7,26 @@
 //
 
 import UIKit
-
+import TwitterKit
 class LoginViewController: UIViewController {
-    var presenter: MainLoginPresenter!
+    var presenter:MainLoginPresenter!
     
     
     override func viewDidLoad() {
-        self.presenter = MainLoginPresenter();
+        
         super.viewDidLoad()
-
+        if(TWTRTwitter.sharedInstance().sessionStore.session()?.userID != nil){
+            print("already logged in")
+        }
+        let logInButton = TWTRLogInButton(logInCompletion: { session, error in
+            if (session != nil) {
+                print("signed in as \(session!.userName)");
+            } else {
+                print("error: \(error!.localizedDescription)");
+            }
+        })
+        logInButton.center = self.view.center
+        self.view.addSubview(logInButton)
         // Do any additional setup after loading the view.
     }
 
@@ -25,7 +36,6 @@ class LoginViewController: UIViewController {
     }
     
     
-
     /*
     // MARK: - Navigation
 

@@ -1,0 +1,280 @@
+Podfile.lock
+Pods/Manifest.lock
+Pods/Pods.xcodeproj/project.pbxproj
+Pods/Pods.xcodeproj/xcuserdata/macbook.xcuserdatad/xcschemes/Pods-twitter api.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/macbook.xcuserdatad/xcschemes/Pods-twitter apiTests.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/macbook.xcuserdatad/xcschemes/Pods-twitter apiUITests.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/macbook.xcuserdatad/xcschemes/xcschememanagement.plist
+Pods/Target Support Files/Pods-twitter api/Info.plist
+Pods/Target Support Files/Pods-twitter api/Pods-twitter api-acknowledgements.markdown
+Pods/Target Support Files/Pods-twitter api/Pods-twitter api-acknowledgements.plist
+Pods/Target Support Files/Pods-twitter api/Pods-twitter api-dummy.m
+Pods/Target Support Files/Pods-twitter api/Pods-twitter api-frameworks.sh
+Pods/Target Support Files/Pods-twitter api/Pods-twitter api-resources.sh
+Pods/Target Support Files/Pods-twitter api/Pods-twitter api-umbrella.h
+Pods/Target Support Files/Pods-twitter api/Pods-twitter api.debug.xcconfig
+Pods/Target Support Files/Pods-twitter api/Pods-twitter api.modulemap
+Pods/Target Support Files/Pods-twitter api/Pods-twitter api.release.xcconfig
+Pods/Target Support Files/Pods-twitter apiTests/Info.plist
+Pods/Target Support Files/Pods-twitter apiTests/Pods-twitter apiTests-acknowledgements.markdown
+Pods/Target Support Files/Pods-twitter apiTests/Pods-twitter apiTests-acknowledgements.plist
+Pods/Target Support Files/Pods-twitter apiTests/Pods-twitter apiTests-dummy.m
+Pods/Target Support Files/Pods-twitter apiTests/Pods-twitter apiTests-frameworks.sh
+Pods/Target Support Files/Pods-twitter apiTests/Pods-twitter apiTests-resources.sh
+Pods/Target Support Files/Pods-twitter apiTests/Pods-twitter apiTests-umbrella.h
+Pods/Target Support Files/Pods-twitter apiTests/Pods-twitter apiTests.debug.xcconfig
+Pods/Target Support Files/Pods-twitter apiTests/Pods-twitter apiTests.modulemap
+Pods/Target Support Files/Pods-twitter apiTests/Pods-twitter apiTests.release.xcconfig
+Pods/Target Support Files/Pods-twitter apiUITests/Info.plist
+Pods/Target Support Files/Pods-twitter apiUITests/Pods-twitter apiUITests-acknowledgements.markdown
+Pods/Target Support Files/Pods-twitter apiUITests/Pods-twitter apiUITests-acknowledgements.plist
+Pods/Target Support Files/Pods-twitter apiUITests/Pods-twitter apiUITests-dummy.m
+Pods/Target Support Files/Pods-twitter apiUITests/Pods-twitter apiUITests-frameworks.sh
+Pods/Target Support Files/Pods-twitter apiUITests/Pods-twitter apiUITests-resources.sh
+Pods/Target Support Files/Pods-twitter apiUITests/Pods-twitter apiUITests-umbrella.h
+Pods/Target Support Files/Pods-twitter apiUITests/Pods-twitter apiUITests.debug.xcconfig
+Pods/Target Support Files/Pods-twitter apiUITests/Pods-twitter apiUITests.modulemap
+Pods/Target Support Files/Pods-twitter apiUITests/Pods-twitter apiUITests.release.xcconfig
+Pods/TwitterCore/README.md
+Pods/TwitterCore/iOS/TwitterCore.framework/Info.plist
+Pods/TwitterCore/iOS/TwitterCore.framework/TwitterCore
+Pods/TwitterCore/iOS/TwitterCore.framework/Headers/TwitterCore.h
+Pods/TwitterCore/iOS/TwitterCore.framework/Headers/TWTRAPIErrorCode.h
+Pods/TwitterCore/iOS/TwitterCore.framework/Headers/TWTRAuthConfig.h
+Pods/TwitterCore/iOS/TwitterCore.framework/Headers/TWTRAuthSession.h
+Pods/TwitterCore/iOS/TwitterCore.framework/Headers/TWTRConstants.h
+Pods/TwitterCore/iOS/TwitterCore.framework/Headers/TWTRCoreOAuthSigning.h
+Pods/TwitterCore/iOS/TwitterCore.framework/Headers/TWTRDefines.h
+Pods/TwitterCore/iOS/TwitterCore.framework/Headers/TWTRGuestSession.h
+Pods/TwitterCore/iOS/TwitterCore.framework/Headers/TWTRSession.h
+Pods/TwitterCore/iOS/TwitterCore.framework/Headers/TWTRSessionStore.h
+Pods/TwitterCore/iOS/TwitterCore.framework/Modules/module.modulemap
+Pods/TwitterCore/iOS/TwitterCore.framework/Modules/module.private.modulemap
+Pods/TwitterCore/iOS/TwitterCore.framework/PrivateHeaders/TFSScribe.h
+Pods/TwitterCore/iOS/TwitterCore.framework/PrivateHeaders/TWTRAPIConstants.h
+Pods/TwitterCore/iOS/TwitterCore.framework/PrivateHeaders/TWTRAPIConstantsUser.h
+Pods/TwitterCore/iOS/TwitterCore.framework/PrivateHeaders/TWTRAPINetworkErrorsShim.h
+Pods/TwitterCore/iOS/TwitterCore.framework/PrivateHeaders/TWTRAPIServiceConfig.h
+Pods/TwitterCore/iOS/TwitterCore.framework/PrivateHeaders/TWTRAPIServiceConfigRegistry.h
+Pods/TwitterCore/iOS/TwitterCore.framework/PrivateHeaders/TWTRAppAPIClient.h
+Pods/TwitterCore/iOS/TwitterCore.framework/PrivateHeaders/TWTRAppAuthProvider.h
+Pods/TwitterCore/iOS/TwitterCore.framework/PrivateHeaders/TWTRAppInstallationUUID.h
+Pods/TwitterCore/iOS/TwitterCore.framework/PrivateHeaders/TWTRAppleSocialAuthenticaticationProvider.h
+Pods/TwitterCore/iOS/TwitterCore.framework/PrivateHeaders/TWTRAssertionMacros.h
+Pods/TwitterCore/iOS/TwitterCore.framework/PrivateHeaders/TWTRAuthConfigSessionsValidator.h
+Pods/TwitterCore/iOS/TwitterCore.framework/PrivateHeaders/TWTRAuthConfigSessionsValidator_Private.h
+Pods/TwitterCore/iOS/TwitterCore.framework/PrivateHeaders/TWTRAuthConfigStore.h
+Pods/TwitterCore/iOS/TwitterCore.framework/PrivateHeaders/TWTRAuthenticationConstants.h
+Pods/TwitterCore/iOS/TwitterCore.framework/PrivateHeaders/TWTRAuthenticationProvider.h
+Pods/TwitterCore/iOS/TwitterCore.framework/PrivateHeaders/TWTRAuthenticationProvider_Private.h
+Pods/TwitterCore/iOS/TwitterCore.framework/PrivateHeaders/TWTRAuthenticator.h
+Pods/TwitterCore/iOS/TwitterCore.framework/PrivateHeaders/TWTRColorUtil.h
+Pods/TwitterCore/iOS/TwitterCore.framework/PrivateHeaders/TWTRCoreConstants.h
+Pods/TwitterCore/iOS/TwitterCore.framework/PrivateHeaders/TWTRCoreLanguage.h
+Pods/TwitterCore/iOS/TwitterCore.framework/PrivateHeaders/TWTRCoreOAuthSigning+Private.h
+Pods/TwitterCore/iOS/TwitterCore.framework/PrivateHeaders/TWTRDateFormatters.h
+Pods/TwitterCore/iOS/TwitterCore.framework/PrivateHeaders/TWTRDateFormatters_Private.h
+Pods/TwitterCore/iOS/TwitterCore.framework/PrivateHeaders/TWTRDateUtil.h
+Pods/TwitterCore/iOS/TwitterCore.framework/PrivateHeaders/TWTRDictUtil.h
+Pods/TwitterCore/iOS/TwitterCore.framework/PrivateHeaders/TWTRErrorLogger.h
+Pods/TwitterCore/iOS/TwitterCore.framework/PrivateHeaders/TWTRGCOAuth.h
+Pods/TwitterCore/iOS/TwitterCore.framework/PrivateHeaders/TWTRGenericKeychainItem.h
+Pods/TwitterCore/iOS/TwitterCore.framework/PrivateHeaders/TWTRGuestAuthProvider.h
+Pods/TwitterCore/iOS/TwitterCore.framework/PrivateHeaders/TWTRGuestAuthRequestSigner.h
+Pods/TwitterCore/iOS/TwitterCore.framework/PrivateHeaders/TWTRIdentifier.h
+Pods/TwitterCore/iOS/TwitterCore.framework/PrivateHeaders/TWTRKeychainWrapper.h
+Pods/TwitterCore/iOS/TwitterCore.framework/PrivateHeaders/TWTRKeychainWrapper_Private.h
+Pods/TwitterCore/iOS/TwitterCore.framework/PrivateHeaders/TWTRMultipartFormDocument.h
+Pods/TwitterCore/iOS/TwitterCore.framework/PrivateHeaders/TWTRMultiThreadUtil.h
+Pods/TwitterCore/iOS/TwitterCore.framework/PrivateHeaders/TWTRNetworking.h
+Pods/TwitterCore/iOS/TwitterCore.framework/PrivateHeaders/TWTRNetworkingConstants.h
+Pods/TwitterCore/iOS/TwitterCore.framework/PrivateHeaders/TWTRNetworkingPipeline.h
+Pods/TwitterCore/iOS/TwitterCore.framework/PrivateHeaders/TWTRNetworkingPipelinePackage.h
+Pods/TwitterCore/iOS/TwitterCore.framework/PrivateHeaders/TWTRNetworkingPipelineQueue.h
+Pods/TwitterCore/iOS/TwitterCore.framework/PrivateHeaders/TWTRNetworkingUtil.h
+Pods/TwitterCore/iOS/TwitterCore.framework/PrivateHeaders/TWTRRequestSigningOperation.h
+Pods/TwitterCore/iOS/TwitterCore.framework/PrivateHeaders/TWTRResourcesUtil.h
+Pods/TwitterCore/iOS/TwitterCore.framework/PrivateHeaders/TWTRScribeCardEvent.h
+Pods/TwitterCore/iOS/TwitterCore.framework/PrivateHeaders/TWTRScribeClientEventNamespace.h
+Pods/TwitterCore/iOS/TwitterCore.framework/PrivateHeaders/TWTRScribeClientEventNamespace_Private.h
+Pods/TwitterCore/iOS/TwitterCore.framework/PrivateHeaders/TWTRScribeEvent.h
+Pods/TwitterCore/iOS/TwitterCore.framework/PrivateHeaders/TWTRScribeFilterDetails.h
+Pods/TwitterCore/iOS/TwitterCore.framework/PrivateHeaders/TWTRScribeItem.h
+Pods/TwitterCore/iOS/TwitterCore.framework/PrivateHeaders/TWTRScribeMediaDetails.h
+Pods/TwitterCore/iOS/TwitterCore.framework/PrivateHeaders/TWTRScribeSerializable.h
+Pods/TwitterCore/iOS/TwitterCore.framework/PrivateHeaders/TWTRScribeService.h
+Pods/TwitterCore/iOS/TwitterCore.framework/PrivateHeaders/TWTRSecItemWrapper.h
+Pods/TwitterCore/iOS/TwitterCore.framework/PrivateHeaders/TWTRSession_Private.h
+Pods/TwitterCore/iOS/TwitterCore.framework/PrivateHeaders/TWTRSessionMigrating.h
+Pods/TwitterCore/iOS/TwitterCore.framework/PrivateHeaders/TWTRSessionRefreshStrategy.h
+Pods/TwitterCore/iOS/TwitterCore.framework/PrivateHeaders/TWTRSessionStore_Private.h
+Pods/TwitterCore/iOS/TwitterCore.framework/PrivateHeaders/TWTRTokenOnlyAuthSession.h
+Pods/TwitterCore/iOS/TwitterCore.framework/PrivateHeaders/TWTRUserAPIClient.h
+Pods/TwitterCore/iOS/TwitterCore.framework/PrivateHeaders/TWTRUserAuthRequestSigner.h
+Pods/TwitterCore/iOS/TwitterCore.framework/PrivateHeaders/TWTRUserSessionVerifier.h
+Pods/TwitterCore/iOS/TwitterCore.framework/PrivateHeaders/TWTRUtils.h
+Pods/TwitterKit/README.md
+Pods/TwitterKit/iOS/TwitterKit.framework/Info.plist
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKit
+Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TwitterKit-Prefix.pch
+Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRAPIClient.h
+Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRCollectionTimelineDataSource.h
+Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRComposer.h
+Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRComposerViewController.h
+Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRJSONConvertible.h
+Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRKit.h
+Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRListTimelineDataSource.h
+Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRLogInButton.h
+Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRMediaEntitySize.h
+Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRMoPubAdConfiguration.h
+Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRMoPubNativeAdContainerView.h
+Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRNotificationConstants.h
+Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTROAuthSigning.h
+Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRSearchTimelineDataSource.h
+Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRTimelineCursor.h
+Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRTimelineDataSource.h
+Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRTimelineDelegate.h
+Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRTimelineFilter.h
+Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRTimelineType.h
+Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRTimelineViewController.h
+Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRTweet.h
+Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRTweetCashtagEntity.h
+Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRTweetEntity.h
+Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRTweetHashtagEntity.h
+Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRTweetTableViewCell.h
+Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRTweetUrlEntity.h
+Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRTweetUserMentionEntity.h
+Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRTweetView.h
+Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRTweetViewDelegate.h
+Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRTwitter.h
+Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRUser.h
+Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRUserTimelineDataSource.h
+Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRVideoMetaData.h
+Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRVideoPlaybackState.h
+Pods/TwitterKit/iOS/TwitterKit.framework/Modules/module.modulemap
+Pods/TwitterKit/iOS/TwitterKit.framework/PrivateHeaders/TWTRConstants_Private.h
+Pods/TwitterKit/iOS/TwitterKit.framework/PrivateHeaders/TWTRDateFormatter.h
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/emailshare.png
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/emailshare@2x.png
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/emailshare@3x.png
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/icn_vine_badge.png
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/icn_vine_badge@2x.png
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/icn_vine_badge@3x.png
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/twtr-heart-animation-sheet-large.png
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/twtr-heart-animation-sheet-large@2x.png
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/twtr-heart-animation-sheet-large@3x.png
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/twtr-heart-animation-sheet.png
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/twtr-heart-animation-sheet@2x.png
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/twtr-heart-animation-sheet@3x.png
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/twtr-icn-heart-off-large.png
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/twtr-icn-heart-off-large@2x.png
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/twtr-icn-heart-off-large@3x.png
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/twtr-icn-heart-off.png
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/twtr-icn-heart-off@2x.png
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/twtr-icn-heart-off@3x.png
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/twtr-icn-heart-on.png
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/twtr-icn-heart-on@2x.png
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/twtr-icn-heart-on@3x.png
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/twtr-icn-logo-white.png
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/twtr-icn-logo-white@2x.png
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/twtr-icn-logo-white@3x.png
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/twtr-icn-logo.png
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/twtr-icn-logo@2x.png
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/twtr-icn-logo@3x.png
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/twtr-icn-media-pause.png
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/twtr-icn-media-pause@2x.png
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/twtr-icn-media-pause@3x.png
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/twtr-icn-media-play.png
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/twtr-icn-media-play@2x.png
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/twtr-icn-media-play@3x.png
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/twtr-icn-media-replay.png
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/twtr-icn-media-replay@2x.png
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/twtr-icn-media-replay@3x.png
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/twtr-icn-media-scrubber.png
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/twtr-icn-media-scrubber@2x.png
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/twtr-icn-media-scrubber@3x.png
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/twtr-icn-tweet-retweeted-by-dark.png
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/twtr-icn-tweet-retweeted-by-dark@2x.png
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/twtr-icn-tweet-retweeted-by-dark@3x.png
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/twtr-icn-tweet-retweeted-by-light.png
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/twtr-icn-tweet-retweeted-by-light@2x.png
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/twtr-icn-tweet-retweeted-by-light@3x.png
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/twtr-icn-tweet-verified.png
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/twtr-icn-tweet-verified@2x.png
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/twtr-icn-tweet-verified@3x.png
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/twtr-icn_close.png
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/twtr-icn_close@2x.png
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/twtr-icn_close@3x.png
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/twtr-icon-heart-on-large.png
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/twtr-icon-heart-on-large@2x.png
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/twtr-icon-heart-on-large@3x.png
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/twtr-media-expand.png
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/twtr-media-expand@2x.png
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/twtr-media-expand@3x.png
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/twtr-play.png
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/twtr-play@2x.png
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/twtr-play@3x.png
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/twtr-share-large.png
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/twtr-share-large@2x.png
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/twtr-share-large@3x.png
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/twtr-share.png
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/twtr-share@2x.png
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/twtr-share@3x.png
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/twttr-icn-tweet-place-holder-photo-error.png
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/twttr-icn-tweet-place-holder-photo-error@2x.png
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/twttr-icn-tweet-place-holder-photo-error@3x.png
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/twttr-icn-tweet-place-holder-photo.png
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/twttr-icn-tweet-place-holder-photo@2x.png
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/twttr-icn-tweet-place-holder-photo@3x.png
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/ar.lproj/Localizable.strings
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/bg.lproj/Localizable.strings
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/bn.lproj/Localizable.strings
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/ca.lproj/Localizable.strings
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/cs.lproj/Localizable.strings
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/da.lproj/Localizable.strings
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/de.lproj/Localizable.strings
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/el.lproj/Localizable.strings
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/en-gb.lproj/Localizable.strings
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/en.lproj/Localizable.strings
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/es-MX.lproj/Localizable.strings
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/es.lproj/Localizable.strings
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/fa.lproj/Localizable.strings
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/fi.lproj/Localizable.strings
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/fr.lproj/Localizable.strings
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/gu.lproj/Localizable.strings
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/he.lproj/Localizable.strings
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/hi.lproj/Localizable.strings
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/hr.lproj/Localizable.strings
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/hu.lproj/Localizable.strings
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/id.lproj/Localizable.strings
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/it.lproj/Localizable.strings
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/ja.lproj/Localizable.strings
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/kn.lproj/Localizable.strings
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/ko.lproj/Localizable.strings
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/mr.lproj/Localizable.strings
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/ms.lproj/Localizable.strings
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/nb.lproj/Localizable.strings
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/nl.lproj/Localizable.strings
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/pl.lproj/Localizable.strings
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/pt.lproj/Localizable.strings
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/ro.lproj/Localizable.strings
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/ru.lproj/Localizable.strings
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/sk.lproj/Localizable.strings
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/sr.lproj/Localizable.strings
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/sv.lproj/Localizable.strings
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/ta.lproj/Localizable.strings
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/TFSScribe.momd/TFSScribe.mom
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/TFSScribe.momd/VersionInfo.plist
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/th.lproj/Localizable.strings
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/tl.lproj/Localizable.strings
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/tr.lproj/Localizable.strings
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/uk.lproj/Localizable.strings
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/ur.lproj/Localizable.strings
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/vi.lproj/Localizable.strings
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/zh-Hans.lproj/Localizable.strings
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle/zh-Hant.lproj/Localizable.strings
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterShareExtensionUIResources.bundle/Assets.car
+Pods/TwitterKit/iOS/TwitterKit.framework/TwitterShareExtensionUIResources.bundle/Info.plist
+twitter api.xcworkspace/contents.xcworkspacedata
+twitter api.xcworkspace/xcuserdata/macbook.xcuserdatad/UserInterfaceState.xcuserstate
+twitter api.xcworkspace/xcuserdata/macbook.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist

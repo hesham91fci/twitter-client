@@ -8,9 +8,17 @@
 
 import Foundation
 import UIKit
-
+import TwitterKit
 class MainLoginPresenter {
-    
+    func login(){
+        TWTRTwitter.sharedInstance().logIn(completion: { (session, error) in
+            if let sess = session {
+                print("signed in as \(sess.userName)");
+            } else {
+                print("error: \(error?.localizedDescription)");
+            }
+        })
+    }
 }
 
 struct twitterUser {
